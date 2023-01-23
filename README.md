@@ -1,4 +1,4 @@
-# Decision Tree Visualizatio (sklearn & matplotlib in Python)
+## Decision Tree Visualizatio (sklearn & matplotlib in Python)
 
 In **code.py** you will see:
 
